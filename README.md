@@ -1,6 +1,7 @@
 # Homebridge TP-Link Tapo
 
-## This plugin has been archived and it will no longer receive updates
+## This plugin has been cloned from: https://github.com/apatsufas/homebridge-tapo-p100
+# v4.1.2 is the current as-is version of the plugin from Andreas Zimmas @apatsufas. Credit thus far goes to him.
 
 [![Build and Lint](https://github.com/RaresAil/homebridge-tp-link-tapo/actions/workflows/build.yml/badge.svg)](https://github.com/RaresAil/homebridge-tp-link-tapo/actions/workflows/build.yml)
 [![CodeQL](https://github.com/RaresAil/homebridge-tp-link-tapo/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/RaresAil/homebridge-tp-link-tapo/actions/workflows/codeql-analysis.yml)
